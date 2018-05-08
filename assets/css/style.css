@@ -1,0 +1,64 @@
+/* General styles
+--------------------------------------*/
+.content-wrapper {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+a:visited { 
+    color: #777777;
+}
+
+a:hover {
+    color: #4aaaa5;
+}
+
+/* Header
+--------------------------------------*/
+header {
+    background-color: #ffffff;
+    border-color: #cccccc;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    border-bottom: 2px solid #cccccc;
+    overflow: auto;
+    font-size: 0;
+}
+
+header a {
+    padding: 0 15px;
+    font-size: 16px;
+    color: #777777;
+    text-decoration: none;
+}
+
+.right-align {
+    float: right;
+    padding: 30px;
+}
+
+.header-h1 {
+    float: left;
+    background-color: #4aaaa5;
+    padding: 30px;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.center-anchor {
+    border-right: 1px solid #777777;
+    border-left: 1px solid #777777;
+}
+
+/* Footer
+--------------------------------------*/
+footer {
+    text-align: center;
+    background-color: #666666;
+    padding-top: 35px;
+    padding-bottom: 10px;
+    font-size: 12px;
+    color: #b0acb0;
+}
+
+
