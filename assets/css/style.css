@@ -90,6 +90,7 @@ main {
     float: left;
     max-width: 40%; 
     height: auto;
+    padding-top: 10px;
     padding-left: 30px;
     padding-right: 30px;
 }
@@ -105,7 +106,6 @@ main {
     font-size: 20px;
     color: #777777;
     line-height: 35px;
-    margin-top: -12px;
     margin-left: 30px;
     margin-right: 30px;
 }
